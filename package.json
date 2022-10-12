@@ -16,7 +16,7 @@
     "express-session": "^1.17.0",
     "nodemon": "^2.0.2",
     "passport": "^0.4.1",
-    "passport-saml": "^1.3.3",
+    "passport-saml": "^3.2.2",
     "samlp": "^3.4.1"
   }
 }
